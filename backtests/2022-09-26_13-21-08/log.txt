@@ -1,0 +1,167 @@
+2022-09-26T17:21:13.8491783Z TRACE:: Config.Get(): Configuration key not found. Key: data-directory - Using default value: ../../../Data/
+2022-09-26T17:21:13.8571375Z TRACE:: Config.Get(): Configuration key not found. Key: version-id - Using default value: 
+2022-09-26T17:21:13.8576435Z TRACE:: Config.Get(): Configuration key not found. Key: cache-location - Using default value: /Lean/Data
+2022-09-26T17:21:13.8593074Z TRACE:: Engine.Main(): LEAN ALGORITHMIC TRADING ENGINE v2.5.0.0 Mode: DEBUG (64bit) Host: 221779B
+2022-09-26T17:21:13.8648564Z TRACE:: Engine.Main(): Started 5:21 PM
+2022-09-26T17:21:13.8693567Z TRACE:: Config.Get(): Configuration key not found. Key: lean-manager-type - Using default value: LocalLeanManager
+2022-09-26T17:21:13.8939953Z TRACE:: JobQueue.NextJob(): Selected IQFeedTest.dll
+2022-09-26T17:21:13.9945953Z TRACE:: Config.GetValue(): scheduled-event-leaky-bucket-capacity - Using default value: 120
+2022-09-26T17:21:13.9952013Z TRACE:: Config.GetValue(): scheduled-event-leaky-bucket-time-interval-minutes - Using default value: 1440
+2022-09-26T17:21:13.9960156Z TRACE:: Config.GetValue(): scheduled-event-leaky-bucket-refill-amount - Using default value: 18
+2022-09-26T17:21:13.9985350Z TRACE:: Config.GetValue(): storage-limit - Using default value: 10737418240
+2022-09-26T17:21:13.9995344Z TRACE:: Config.GetValue(): storage-permissions - Using default value: 3
+2022-09-26T17:21:14.0002015Z TRACE:: Config.Get(): Configuration key not found. Key: backtest-name - Using default value: local
+2022-09-26T17:21:14.0077386Z TRACE:: Config.Get(): Configuration key not found. Key: job-organization-id - Using default value: 
+2022-09-26T17:21:14.0086505Z TRACE:: Config.Get(): Configuration key not found. Key: python-venv - Using default value: 
+2022-09-26T17:21:14.0124461Z TRACE:: Config.Get(): Configuration key not found. Key: data-permission-manager - Using default value: DataPermissionManager
+2022-09-26T17:21:14.0358011Z TRACE:: AlgorithmManager.CreateTokenBucket(): Initializing LeakyBucket: Capacity: 120 RefillAmount: 18 TimeInterval: 1440
+2022-09-26T17:21:14.0424402Z TRACE:: Config.GetValue(): algorithm-manager-time-loop-maximum - Using default value: 20
+2022-09-26T17:21:14.0659417Z TRACE:: TextSubscriptionDataSourceReader.SetCacheSize(): Setting cache size to 71582788 items
+2022-09-26T17:21:14.4434871Z TRACE:: Config.GetValue(): algorithm-creation-timeout - Using default value: 90
+2022-09-26T17:21:14.4485962Z TRACE:: Loader.TryCreateILAlgorithm(): Loading only the algorithm assembly
+2022-09-26T17:21:14.4617296Z TRACE:: Config.GetValue(): api-data-update-period - Using default value: 1
+2022-09-26T17:21:14.5395946Z TRACE:: Loader.TryCreateILAlgorithm(): Loaded IQFeedTest
+2022-09-26T17:21:14.5707153Z TRACE:: LocalObjectStore.Initialize(): Storage Root: /Storage. StorageFileCount 9999999. StorageLimit 10240MB
+2022-09-26T17:21:14.5967481Z TRACE:: HistoryProviderManager.Initialize(): history providers [SubscriptionDataReaderHistoryProvider]
+2022-09-26T17:21:14.6024195Z TRACE:: BacktestingSetupHandler.Setup(): Setting up job: UID: 46883, PID: 366288702, Version: 2.5.0.0, Source: WebIDE
+2022-09-26T17:21:14.6125988Z TRACE:: Config.Get(): Configuration key not found. Key: security-data-feeds - Using default value: 
+2022-09-26T17:21:14.8513853Z TRACE:: BaseSetupHandler.SetupCurrencyConversions():
+Account Type: Margin
+
+Symbol      Quantity    Conversion = Value in USD
+USD: $      100000.00 @       1.00 = $100000.0
+-------------------------------------------------
+CashBook Total Value:                $100000.0
+
+2022-09-26T17:21:14.8586351Z TRACE:: SetUp Backtesting: User: 46883 ProjectId: 366288702 AlgoId: 1490695396
+2022-09-26T17:21:14.8616502Z TRACE:: Dates: Start: 01/01/1998 End: 09/25/2022 Cash: ¤100,000.00 MaximumRuntime: 100.00:00:00 MaxOrders: 2147483647
+2022-09-26T17:21:14.8644217Z TRACE:: BacktestingResultHandler(): Sample Period Set: 3252.14
+2022-09-26T17:21:14.8687098Z TRACE:: Time.TradeableDates(): Security Count: 162
+2022-09-26T17:21:14.9076136Z TRACE:: Config.GetValue(): forward-console-messages - Using default value: True
+2022-09-26T17:21:14.9138897Z TRACE:: JOB HANDLERS:
+         DataFeed:             QuantConnect.Lean.Engine.DataFeeds.FileSystemDataFeed
+         Setup:                QuantConnect.Lean.Engine.Setup.BacktestingSetupHandler
+         RealTime:             QuantConnect.Lean.Engine.RealTime.BacktestingRealTimeHandler
+         Results:              QuantConnect.Lean.Engine.Results.BacktestingResultHandler
+         Transactions:         QuantConnect.Lean.Engine.TransactionHandlers.BacktestingTransactionHandler
+         Alpha:                QuantConnect.Lean.Engine.Alphas.DefaultAlphaHandler
+         Object Store:         QuantConnect.Lean.Engine.Storage.LocalObjectStore
+         History Provider:     QuantConnect.Lean.Engine.HistoricalData.HistoryProviderManager
+         Brokerage:            QuantConnect.Brokerages.Backtesting.BacktestingBrokerage
+         Data Provider:        QuantConnect.Lean.Engine.DataFeeds.DefaultDataProvider
+
+2022-09-26T17:21:14.9612053Z TRACE:: Debug: Launching analysis for 1490695396 with LEAN Engine v2.5.0.0
+2022-09-26T17:21:14.9805147Z TRACE:: Event Name "Daily Sampling", scheduled to run.
+2022-09-26T17:21:14.9832492Z TRACE:: AlgorithmManager.Run(): Begin DataStream - Start: 1/1/1998 12:00:00 AM Stop: 9/25/2022 5:21:14 PM Time: 12/31/1997 7:00:00 PM Warmup: False
+2022-09-26T17:21:15.0480475Z TRACE:: Config.GetValue(): data-feed-workers-count - Using default value: 4
+2022-09-26T17:21:15.0533494Z TRACE:: Config.GetValue(): data-feed-max-work-weight - Using default value: 400
+2022-09-26T17:21:15.0539513Z TRACE:: WeightedWorkScheduler(): will use 4 workers and MaxWorkWeight is 400
+2022-09-26T17:21:15.1061175Z TRACE:: Config.GetValue(): show-missing-data-logs - Using default value: False
+2022-09-26T17:22:15.4633400Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 54, Sample: 91, App: 456, CurrentTimeStepElapsed: 00:59.514. CPU: 25%
+2022-09-26T17:23:15.4773496Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 84, Sample: 45, App: 459, CurrentTimeStepElapsed: 01:59.535. CPU: 27%
+2022-09-26T17:24:15.4986124Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 72, Sample: 43, App: 613, CurrentTimeStepElapsed: 02:59.556. CPU: 26%
+2022-09-26T17:25:15.5200567Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 51, Sample: 29, App: 573, CurrentTimeStepElapsed: 03:59.576. CPU: 25%
+2022-09-26T17:26:15.5341857Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 34, Sample: 28, App: 519, CurrentTimeStepElapsed: 04:59.592. CPU: 26%
+2022-09-26T17:27:15.5702981Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 24, Sample: 12, App: 504, CurrentTimeStepElapsed: 05:59.621. CPU: 23%
+2022-09-26T17:28:15.6070475Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 21, Sample: 17, App: 512, CurrentTimeStepElapsed: 06:59.661. CPU: 31%
+2022-09-26T17:29:15.6530605Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 19, Sample: 24, App: 512, CurrentTimeStepElapsed: 07:59.712. CPU: 25%
+2022-09-26T17:30:15.6670462Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 19, Sample: 24, App: 511, CurrentTimeStepElapsed: 08:59.725. CPU: 27%
+2022-09-26T17:31:15.6834047Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 19, Sample: 25, App: 510, CurrentTimeStepElapsed: 09:59.741. CPU: 26%
+2022-09-26T17:32:15.7016483Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 20, App: 510, CurrentTimeStepElapsed: 10:59.760. CPU: 26%
+2022-09-26T17:33:15.7317421Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 19, Sample: 28, App: 510, CurrentTimeStepElapsed: 11:59.790. CPU: 25%
+2022-09-26T17:34:15.7604906Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 23, App: 510, CurrentTimeStepElapsed: 12:59.816. CPU: 27%
+2022-09-26T17:35:15.7769047Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 21, App: 482, CurrentTimeStepElapsed: 13:59.835. CPU: 27%
+2022-09-26T17:36:15.7968684Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 20, App: 475, CurrentTimeStepElapsed: 14:59.854. CPU: 26%
+2022-09-26T17:37:15.8131130Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 16, App: 476, CurrentTimeStepElapsed: 15:59.870. CPU: 26%
+2022-09-26T17:38:15.8336047Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 25, App: 476, CurrentTimeStepElapsed: 16:59.891. CPU: 26%
+2022-09-26T17:39:15.8527904Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 12, App: 476, CurrentTimeStepElapsed: 17:59.910. CPU: 27%
+2022-09-26T17:40:15.8815587Z TRACE:: Isolator.ExecuteWithTimeLimit(): Used: 18, Sample: 20, App: 475, CurrentTimeStepElapsed: 18:59.940. CPU: 20%
+2022-09-26T17:41:15.4150286Z ERROR:: Security.ExecuteWithTimeLimit(): Algorithm took longer than 20 minutes on a single time loop. CurrentTimeStepElapsed: 20.0 minutes
+2022-09-26T17:41:15.4395074Z ERROR:: Extensions.SetRuntimeError(): Extensions.SetRuntimeError(): RuntimeError at 1/1/1998 12:00:00 AM UTC. Context: Engine Isolator System.TimeoutException: Algorithm took longer than 20 minutes on a single time loop. CurrentTimeStepElapsed: 20.0 minutes
+   at QuantConnect.Isolator.MonitorTask(Task task, TimeSpan timeSpan, Func`1 withinCustomLimits, Int64 memoryCap, Int32 sleepIntervalMillis) in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Common/Isolator.cs:line 179
+   at QuantConnect.Isolator.ExecuteWithTimeLimit(TimeSpan timeSpan, Func`1 withinCustomLimits, Action codeBlock, Int64 memoryCap, Int32 sleepIntervalMillis, WorkerThread workerThread) in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Common/Isolator.cs:line 86
+   at QuantConnect.Lean.Engine.Engine.Run(AlgorithmNodePacket job, AlgorithmManager manager, String assemblyPath, WorkerThread workerThread) in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Engine/Engine.cs:line 348
+2022-09-26T17:41:15.8123583Z TRACE:: FileSystemDataFeed.Exit(): Start. Setting cancellation token...
+2022-09-26T17:41:15.8171480Z TRACE:: FileSystemDataFeed.Exit(): Exit Finished.
+2022-09-26T17:41:15.8175935Z TRACE:: Engine.Run(): Sending runtime error to user...
+2022-09-26T17:41:15.8294250Z TRACE:: StopSafely(): waiting for 'Isolator Thread' thread to stop...
+2022-09-26T17:41:15.8342947Z ERROR:: Extensions.SetRuntimeError(): Extensions.SetRuntimeError(): RuntimeError at 1/1/1998 12:00:00 AM UTC. Context: Synchronizer System.ObjectDisposedException: The collection has been disposed.
+Object name: 'BlockingCollection'.
+   at System.Collections.Concurrent.BlockingCollection`1.CheckDisposed()
+   at System.Collections.Concurrent.BlockingCollection`1.TryTakeWithNoTimeValidation(T& item, Int32 millisecondsTimeout, CancellationToken cancellationToken, CancellationTokenSource combinedTokenSource)
+   at System.Collections.Concurrent.BlockingCollection`1.TryTake(T& item, Int32 millisecondsTimeout)
+   at QuantConnect.Lean.Engine.DataFeeds.Enumerators.EnqueueableEnumerator`1.MoveNext() in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Engine/DataFeeds/Enumerators/EnqueueableEnumerator.cs:line 124
+   at QuantConnect.Lean.Engine.DataFeeds.Subscription.MoveNext() in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Engine/DataFeeds/Subscription.cs:line 206
+   at QuantConnect.Lean.Engine.DataFeeds.SubscriptionSynchronizer.Sync(IEnumerable`1 subscriptions, CancellationToken cancellationToken)+MoveNext() in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Engine/DataFeeds/SubscriptionSynchronizer.cs:line 116
+   at QuantConnect.Lean.Engine.DataFeeds.Synchronizer.StreamData(CancellationToken cancellationToken)+MoveNext() in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Engine/DataFeeds/Synchronizer.cs:line 101
+2022-09-26T17:41:15.8366498Z TRACE:: Synchronizer.GetEnumerator(): Exited thread.
+2022-09-26T17:41:15.8374828Z TRACE:: AlgorithmManager.Run(): Firing On End Of Algorithm...
+2022-09-26T17:41:15.8541557Z ERROR:: Runtime Error: Algorithm took longer than 20 minutes on a single time loop. CurrentTimeStepElapsed: 20.0 minutes in Isolator.cs:line 179
+ System.Exception: Algorithm took longer than 20 minutes on a single time loop. CurrentTimeStepElapsed: 20.0 minutes in Isolator.cs:line 179
+ ---> System.TimeoutException: Algorithm took longer than 20 minutes on a single time loop. CurrentTimeStepElapsed: 20.0 minutes
+   at QuantConnect.Isolator.MonitorTask(Task task, TimeSpan timeSpan, Func`1 withinCustomLimits, Int64 memoryCap, Int32 sleepIntervalMillis) in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Common/Isolator.cs:line 179
+   at QuantConnect.Isolator.ExecuteWithTimeLimit(TimeSpan timeSpan, Func`1 withinCustomLimits, Action codeBlock, Int64 memoryCap, Int32 sleepIntervalMillis, WorkerThread workerThread) in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Common/Isolator.cs:line 86
+   at QuantConnect.Lean.Engine.Engine.Run(AlgorithmNodePacket job, AlgorithmManager manager, String assemblyPath, WorkerThread workerThread) in /LeanCloud/CI.Builder/bin/Debug/src/QuantConnect/Lean/Engine/Engine.cs:line 348
+   --- End of inner exception stack trace ---
+2022-09-26T17:41:15.8574002Z TRACE:: Debug: Algorithm Id:(1490695396) completed in 1200.90 seconds at 0k data points per second. Processing total of 0 data points.
+2022-09-26T17:41:15.8818271Z ERROR:: StopSafely(): Timeout waiting for 'Isolator Thread' thread to stop
+2022-09-26T17:41:15.8827473Z TRACE:: DefaultAlphaHandler.Exit(): Exiting...
+2022-09-26T17:41:15.8997914Z TRACE:: DefaultAlphaHandler.Exit(): Ended
+2022-09-26T17:41:15.9063826Z TRACE:: BacktestingResultHandler.Exit(): starting...
+2022-09-26T17:41:15.9129969Z TRACE:: BacktestingResultHandler.Exit(): Saving logs...
+2022-09-26T17:41:15.9134067Z TRACE:: Engine.Run(): Exiting Algorithm Manager
+2022-09-26T17:41:15.9368461Z TRACE:: Debug: Your log was successfully created and can be retrieved from: /Results/1490695396-log.txt
+2022-09-26T17:41:15.9402201Z TRACE:: BacktestingResultHandler.Run(): Ending Thread...
+2022-09-26T17:41:15.9370651Z TRACE:: StopSafely(): waiting for 'Result Thread' thread to stop...
+2022-09-26T17:41:16.2987378Z TRACE:: 
+STATISTICS:: Total Trades 0
+STATISTICS:: Average Win 0%
+STATISTICS:: Average Loss 0%
+STATISTICS:: Compounding Annual Return 0%
+STATISTICS:: Drawdown 0%
+STATISTICS:: Expectancy 0
+STATISTICS:: Net Profit 0%
+STATISTICS:: Sharpe Ratio 0
+STATISTICS:: Probabilistic Sharpe Ratio 0%
+STATISTICS:: Loss Rate 0%
+STATISTICS:: Win Rate 0%
+STATISTICS:: Profit-Loss Ratio 0
+STATISTICS:: Alpha 0
+STATISTICS:: Beta 0
+STATISTICS:: Annual Standard Deviation 0
+STATISTICS:: Annual Variance 0
+STATISTICS:: Information Ratio 0
+STATISTICS:: Tracking Error 0
+STATISTICS:: Treynor Ratio 0
+STATISTICS:: Total Fees $0.00
+STATISTICS:: Estimated Strategy Capacity $0
+STATISTICS:: Lowest Capacity Asset 
+STATISTICS:: Fitness Score 0
+STATISTICS:: Kelly Criterion Estimate 0
+STATISTICS:: Kelly Criterion Probability Value 0
+STATISTICS:: Sortino Ratio 0
+STATISTICS:: Return Over Maximum Drawdown 0
+STATISTICS:: Portfolio Turnover 0
+STATISTICS:: Total Insights Generated 0
+STATISTICS:: Total Insights Closed 0
+STATISTICS:: Total Insights Analysis Completed 0
+STATISTICS:: Long Insight Count 0
+STATISTICS:: Short Insight Count 0
+STATISTICS:: Long/Short Ratio 100%
+STATISTICS:: Estimated Monthly Alpha Value $0
+STATISTICS:: Total Accumulated Estimated Alpha Value $0
+STATISTICS:: Mean Population Estimated Insight Value $0
+STATISTICS:: Mean Population Direction 0%
+STATISTICS:: Mean Population Magnitude 0%
+STATISTICS:: Rolling Averaged Population Direction 0%
+STATISTICS:: Rolling Averaged Population Magnitude 0%
+STATISTICS:: OrderListHash d41d8cd98f00b204e9800998ecf8427e
+2022-09-26T17:41:16.2998689Z TRACE:: BacktestingResultHandler.SendAnalysisResult(): Processed final packet
+2022-09-26T17:41:16.3019476Z TRACE:: Engine.Run(): Disconnecting from brokerage...
+2022-09-26T17:41:16.3034105Z TRACE:: Engine.Run(): Disposing of setup handler...
+2022-09-26T17:41:16.3051017Z TRACE:: Engine.Main(): Analysis Completed and Results Posted.
+2022-09-26T17:41:16.3090814Z TRACE:: Engine.Main(): Packet removed from queue: 1490695396
+2022-09-26T17:41:16.3138036Z TRACE:: LeanEngineSystemHandlers.Dispose(): start...
+2022-09-26T17:41:16.3147651Z TRACE:: LeanEngineSystemHandlers.Dispose(): Disposed of system handlers.
+2022-09-26T17:41:16.3161383Z TRACE:: LeanEngineAlgorithmHandlers.Dispose(): start...
+2022-09-26T17:41:16.3201138Z TRACE:: LeanEngineAlgorithmHandlers.Dispose(): Disposed of algorithm handlers.

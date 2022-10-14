@@ -1,0 +1,5 @@
+1997-12-31 19:00:00 Launching analysis for 1490695396 with LEAN Engine v2.5.0.0
+1997-12-31 19:00:00 Due to numerical precision issues in the factor file, data for the following symbols was adjust to a later starting date: [GOOG, 3/26/2014], [GOOGL, 8/18/2004]
+1997-12-31 19:00:00 The starting dates for the following symbols have been adjusted to match their map files first date: [GOOG, 2014-03-27], [GOOGL, 2004-08-19]
+1997-12-31 19:00:00 Runtime Error: Algorithm took longer than 20 minutes on a single time loop. CurrentTimeStepElapsed: 20.0 minutes in Isolator.cs:line 179
+1997-12-31 19:00:00 Algorithm Id:(1490695396) completed in 1200.90 seconds at 0k data points per second. Processing total of 0 data points.

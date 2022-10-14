@@ -1,0 +1,1 @@
+2022-09-26 16:39:22 Launching analysis for L-3948913435 with LEAN Engine v2.5.0.0

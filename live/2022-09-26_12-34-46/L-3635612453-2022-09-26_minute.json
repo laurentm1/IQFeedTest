@@ -1,0 +1,1496 @@
+{
+  "Holdings": {
+    "AA": {
+      "Symbol": {
+        "Value": "AA",
+        "ID": "AA 2T",
+        "Permtick": "AA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ABNB": {
+      "Symbol": {
+        "Value": "ABNB",
+        "ID": "ABNB 2T",
+        "Permtick": "ABNB"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ADI": {
+      "Symbol": {
+        "Value": "ADI",
+        "ID": "ADI 2T",
+        "Permtick": "ADI"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ADM": {
+      "Symbol": {
+        "Value": "ADM",
+        "ID": "ADM 2T",
+        "Permtick": "ADM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AEM": {
+      "Symbol": {
+        "Value": "AEM",
+        "ID": "AEM 2T",
+        "Permtick": "AEM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AEP": {
+      "Symbol": {
+        "Value": "AEP",
+        "ID": "AEP 2T",
+        "Permtick": "AEP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AFRM": {
+      "Symbol": {
+        "Value": "AFRM",
+        "ID": "AFRM 2T",
+        "Permtick": "AFRM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AIG": {
+      "Symbol": {
+        "Value": "AIG",
+        "ID": "AIG R735QTJ8XC9X",
+        "Permtick": "AIG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AMAT": {
+      "Symbol": {
+        "Value": "AMAT",
+        "ID": "AMAT 2T",
+        "Permtick": "AMAT"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AMD": {
+      "Symbol": {
+        "Value": "AMD",
+        "ID": "AMD 2T",
+        "Permtick": "AMD"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AMZN": {
+      "Symbol": {
+        "Value": "AMZN",
+        "ID": "AMZN 2T",
+        "Permtick": "AMZN"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ANET": {
+      "Symbol": {
+        "Value": "ANET",
+        "ID": "ANET 2T",
+        "Permtick": "ANET"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "APA": {
+      "Symbol": {
+        "Value": "APA",
+        "ID": "APA 2T",
+        "Permtick": "APA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "APH": {
+      "Symbol": {
+        "Value": "APH",
+        "ID": "APH 2T",
+        "Permtick": "APH"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "APP": {
+      "Symbol": {
+        "Value": "APP",
+        "ID": "APP 2T",
+        "Permtick": "APP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AR": {
+      "Symbol": {
+        "Value": "AR",
+        "ID": "AR 2T",
+        "Permtick": "AR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ARRY": {
+      "Symbol": {
+        "Value": "ARRY",
+        "ID": "ARRY 2T",
+        "Permtick": "ARRY"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ASAN": {
+      "Symbol": {
+        "Value": "ASAN",
+        "ID": "ASAN 2T",
+        "Permtick": "ASAN"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "AXP": {
+      "Symbol": {
+        "Value": "AXP",
+        "ID": "AXP 2T",
+        "Permtick": "AXP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BA": {
+      "Symbol": {
+        "Value": "BA",
+        "ID": "BA 2T",
+        "Permtick": "BA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BABA": {
+      "Symbol": {
+        "Value": "BABA",
+        "ID": "BABA 2T",
+        "Permtick": "BABA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BBY": {
+      "Symbol": {
+        "Value": "BBY",
+        "ID": "BBY 2T",
+        "Permtick": "BBY"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BE": {
+      "Symbol": {
+        "Value": "BE",
+        "ID": "BE 2T",
+        "Permtick": "BE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BHP": {
+      "Symbol": {
+        "Value": "BHP",
+        "ID": "BHP 2T",
+        "Permtick": "BHP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BIDU": {
+      "Symbol": {
+        "Value": "BIDU",
+        "ID": "BIDU 2T",
+        "Permtick": "BIDU"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BLDR": {
+      "Symbol": {
+        "Value": "BLDR",
+        "ID": "BLDR 2T",
+        "Permtick": "BLDR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BTU": {
+      "Symbol": {
+        "Value": "BTU",
+        "ID": "BTU 2T",
+        "Permtick": "BTU"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BX": {
+      "Symbol": {
+        "Value": "BX",
+        "ID": "BX 2T",
+        "Permtick": "BX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "BYND": {
+      "Symbol": {
+        "Value": "BYND",
+        "ID": "BYND 2T",
+        "Permtick": "BYND"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CC": {
+      "Symbol": {
+        "Value": "CC",
+        "ID": "CC 2T",
+        "Permtick": "CC"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CF": {
+      "Symbol": {
+        "Value": "CF",
+        "ID": "CF 2T",
+        "Permtick": "CF"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CHK": {
+      "Symbol": {
+        "Value": "CHK",
+        "ID": "CHK 2T",
+        "Permtick": "CHK"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CHWY": {
+      "Symbol": {
+        "Value": "CHWY",
+        "ID": "CHWY 2T",
+        "Permtick": "CHWY"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CNQ": {
+      "Symbol": {
+        "Value": "CNQ",
+        "ID": "CNQ 2T",
+        "Permtick": "CNQ"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "COF": {
+      "Symbol": {
+        "Value": "COF",
+        "ID": "COF 2T",
+        "Permtick": "COF"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "COIN": {
+      "Symbol": {
+        "Value": "COIN",
+        "ID": "COIN 2T",
+        "Permtick": "COIN"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "COP": {
+      "Symbol": {
+        "Value": "COP",
+        "ID": "COP 2T",
+        "Permtick": "COP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CPRI": {
+      "Symbol": {
+        "Value": "CPRI",
+        "ID": "CPRI 2T",
+        "Permtick": "CPRI"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CRM": {
+      "Symbol": {
+        "Value": "CRM",
+        "ID": "CRM 2T",
+        "Permtick": "CRM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CTSH": {
+      "Symbol": {
+        "Value": "CTSH",
+        "ID": "CTSH 2T",
+        "Permtick": "CTSH"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CTVA": {
+      "Symbol": {
+        "Value": "CTVA",
+        "ID": "CTVA 2T",
+        "Permtick": "CTVA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CVNA": {
+      "Symbol": {
+        "Value": "CVNA",
+        "ID": "CVNA 2T",
+        "Permtick": "CVNA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CVS": {
+      "Symbol": {
+        "Value": "CVS",
+        "ID": "CVS 2T",
+        "Permtick": "CVS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CVX": {
+      "Symbol": {
+        "Value": "CVX",
+        "ID": "CVX 2T",
+        "Permtick": "CVX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "CZR": {
+      "Symbol": {
+        "Value": "CZR",
+        "ID": "CZR 2T",
+        "Permtick": "CZR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DASH": {
+      "Symbol": {
+        "Value": "DASH",
+        "ID": "DASH 2T",
+        "Permtick": "DASH"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DD": {
+      "Symbol": {
+        "Value": "DD",
+        "ID": "DD 2T",
+        "Permtick": "DD"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DDOG": {
+      "Symbol": {
+        "Value": "DDOG",
+        "ID": "DDOG 2T",
+        "Permtick": "DDOG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DIS": {
+      "Symbol": {
+        "Value": "DIS",
+        "ID": "DIS 2T",
+        "Permtick": "DIS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DLTR": {
+      "Symbol": {
+        "Value": "DLTR",
+        "ID": "DLTR 2T",
+        "Permtick": "DLTR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DOCU": {
+      "Symbol": {
+        "Value": "DOCU",
+        "ID": "DOCU 2T",
+        "Permtick": "DOCU"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DOW": {
+      "Symbol": {
+        "Value": "DOW",
+        "ID": "DOW 2T",
+        "Permtick": "DOW"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DT": {
+      "Symbol": {
+        "Value": "DT",
+        "ID": "DT 2T",
+        "Permtick": "DT"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DUK": {
+      "Symbol": {
+        "Value": "DUK",
+        "ID": "DUK 2T",
+        "Permtick": "DUK"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "DVN": {
+      "Symbol": {
+        "Value": "DVN",
+        "ID": "DVN 2T",
+        "Permtick": "DVN"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "EMR": {
+      "Symbol": {
+        "Value": "EMR",
+        "ID": "EMR 2T",
+        "Permtick": "EMR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ENVX": {
+      "Symbol": {
+        "Value": "ENVX",
+        "ID": "ENVX 2T",
+        "Permtick": "ENVX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "EOG": {
+      "Symbol": {
+        "Value": "EOG",
+        "ID": "EOG 2T",
+        "Permtick": "EOG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "EQT": {
+      "Symbol": {
+        "Value": "EQT",
+        "ID": "EQT 2T",
+        "Permtick": "EQT"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ETSY": {
+      "Symbol": {
+        "Value": "ETSY",
+        "ID": "ETSY 2T",
+        "Permtick": "ETSY"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "EXPE": {
+      "Symbol": {
+        "Value": "EXPE",
+        "ID": "EXPE 2T",
+        "Permtick": "EXPE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "FANG": {
+      "Symbol": {
+        "Value": "FANG",
+        "ID": "FANG 2T",
+        "Permtick": "FANG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "FDX": {
+      "Symbol": {
+        "Value": "FDX",
+        "ID": "FDX 2T",
+        "Permtick": "FDX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "FISV": {
+      "Symbol": {
+        "Value": "FISV",
+        "ID": "FISV 2T",
+        "Permtick": "FISV"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "FSLR": {
+      "Symbol": {
+        "Value": "FSLR",
+        "ID": "FSLR 2T",
+        "Permtick": "FSLR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "FTNT": {
+      "Symbol": {
+        "Value": "FTNT",
+        "ID": "FTNT 2T",
+        "Permtick": "FTNT"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "GE": {
+      "Symbol": {
+        "Value": "GE",
+        "ID": "GE 2T",
+        "Permtick": "GE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "GIS": {
+      "Symbol": {
+        "Value": "GIS",
+        "ID": "GIS 2T",
+        "Permtick": "GIS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "GM": {
+      "Symbol": {
+        "Value": "GM",
+        "ID": "GM 2T",
+        "Permtick": "GM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "GME": {
+      "Symbol": {
+        "Value": "GME",
+        "ID": "GME 2T",
+        "Permtick": "GME"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "GOOG": {
+      "Symbol": {
+        "Value": "GOOG",
+        "ID": "GOOCV VP83T1ZUHROL",
+        "Permtick": "GOOG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "GOOGL": {
+      "Symbol": {
+        "Value": "GOOGL",
+        "ID": "GOOG T1AZ164W5VTX",
+        "Permtick": "GOOGL"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "HES": {
+      "Symbol": {
+        "Value": "HES",
+        "ID": "HES 2T",
+        "Permtick": "HES"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "HLT": {
+      "Symbol": {
+        "Value": "HLT",
+        "ID": "HLT 2T",
+        "Permtick": "HLT"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "IBM": {
+      "Symbol": {
+        "Value": "IBM",
+        "ID": "IBM R735QTJ8XC9X",
+        "Permtick": "IBM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ICE": {
+      "Symbol": {
+        "Value": "ICE",
+        "ID": "ICE 2T",
+        "Permtick": "ICE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "JD": {
+      "Symbol": {
+        "Value": "JD",
+        "ID": "JD 2T",
+        "Permtick": "JD"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "JPM": {
+      "Symbol": {
+        "Value": "JPM",
+        "ID": "JPM 2T",
+        "Permtick": "JPM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "LAC": {
+      "Symbol": {
+        "Value": "LAC",
+        "ID": "LAC 2T",
+        "Permtick": "LAC"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "LI": {
+      "Symbol": {
+        "Value": "LI",
+        "ID": "LI 2T",
+        "Permtick": "LI"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "LTHM": {
+      "Symbol": {
+        "Value": "LTHM",
+        "ID": "LTHM 2T",
+        "Permtick": "LTHM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "LVS": {
+      "Symbol": {
+        "Value": "LVS",
+        "ID": "LVS 2T",
+        "Permtick": "LVS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "LYB": {
+      "Symbol": {
+        "Value": "LYB",
+        "ID": "LYB 2T",
+        "Permtick": "LYB"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "LYV": {
+      "Symbol": {
+        "Value": "LYV",
+        "ID": "LYV 2T",
+        "Permtick": "LYV"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MAR": {
+      "Symbol": {
+        "Value": "MAR",
+        "ID": "MAR 2T",
+        "Permtick": "MAR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MCHP": {
+      "Symbol": {
+        "Value": "MCHP",
+        "ID": "MCHP 2T",
+        "Permtick": "MCHP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MET": {
+      "Symbol": {
+        "Value": "MET",
+        "ID": "MET 2T",
+        "Permtick": "MET"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "META": {
+      "Symbol": {
+        "Value": "META",
+        "ID": "META 2T",
+        "Permtick": "META"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MMM": {
+      "Symbol": {
+        "Value": "MMM",
+        "ID": "MMM 2T",
+        "Permtick": "MMM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MNST": {
+      "Symbol": {
+        "Value": "MNST",
+        "ID": "MNST 2T",
+        "Permtick": "MNST"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MOS": {
+      "Symbol": {
+        "Value": "MOS",
+        "ID": "MOS 2T",
+        "Permtick": "MOS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MP": {
+      "Symbol": {
+        "Value": "MP",
+        "ID": "MP 2T",
+        "Permtick": "MP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MPC": {
+      "Symbol": {
+        "Value": "MPC",
+        "ID": "MPC 2T",
+        "Permtick": "MPC"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MRVL": {
+      "Symbol": {
+        "Value": "MRVL",
+        "ID": "MRVL 2T",
+        "Permtick": "MRVL"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MS": {
+      "Symbol": {
+        "Value": "MS",
+        "ID": "MS 2T",
+        "Permtick": "MS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MTCH": {
+      "Symbol": {
+        "Value": "MTCH",
+        "ID": "MTCH 2T",
+        "Permtick": "MTCH"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "MU": {
+      "Symbol": {
+        "Value": "MU",
+        "ID": "MU 2T",
+        "Permtick": "MU"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "NEE": {
+      "Symbol": {
+        "Value": "NEE",
+        "ID": "NEE 2T",
+        "Permtick": "NEE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "NET": {
+      "Symbol": {
+        "Value": "NET",
+        "ID": "NET 2T",
+        "Permtick": "NET"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "NKE": {
+      "Symbol": {
+        "Value": "NKE",
+        "ID": "NKE 2T",
+        "Permtick": "NKE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "NOVA": {
+      "Symbol": {
+        "Value": "NOVA",
+        "ID": "NOVA 2T",
+        "Permtick": "NOVA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "NTR": {
+      "Symbol": {
+        "Value": "NTR",
+        "ID": "NTR 2T",
+        "Permtick": "NTR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "NUE": {
+      "Symbol": {
+        "Value": "NUE",
+        "ID": "NUE 2T",
+        "Permtick": "NUE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "NVDA": {
+      "Symbol": {
+        "Value": "NVDA",
+        "ID": "NVDA 2T",
+        "Permtick": "NVDA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "OKE": {
+      "Symbol": {
+        "Value": "OKE",
+        "ID": "OKE 2T",
+        "Permtick": "OKE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "OKTA": {
+      "Symbol": {
+        "Value": "OKTA",
+        "ID": "OKTA 2T",
+        "Permtick": "OKTA"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ON": {
+      "Symbol": {
+        "Value": "ON",
+        "ID": "ON 2T",
+        "Permtick": "ON"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ORCL": {
+      "Symbol": {
+        "Value": "ORCL",
+        "ID": "ORCL 2T",
+        "Permtick": "ORCL"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "OVV": {
+      "Symbol": {
+        "Value": "OVV",
+        "ID": "OVV 2T",
+        "Permtick": "OVV"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "OXY": {
+      "Symbol": {
+        "Value": "OXY",
+        "ID": "OXY 2T",
+        "Permtick": "OXY"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PBF": {
+      "Symbol": {
+        "Value": "PBF",
+        "ID": "PBF 2T",
+        "Permtick": "PBF"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PDD": {
+      "Symbol": {
+        "Value": "PDD",
+        "ID": "PDD 2T",
+        "Permtick": "PDD"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PENN": {
+      "Symbol": {
+        "Value": "PENN",
+        "ID": "PENN 2T",
+        "Permtick": "PENN"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PG": {
+      "Symbol": {
+        "Value": "PG",
+        "ID": "PG 2T",
+        "Permtick": "PG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PGR": {
+      "Symbol": {
+        "Value": "PGR",
+        "ID": "PGR 2T",
+        "Permtick": "PGR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PLUG": {
+      "Symbol": {
+        "Value": "PLUG",
+        "ID": "PLUG 2T",
+        "Permtick": "PLUG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PM": {
+      "Symbol": {
+        "Value": "PM",
+        "ID": "PM 2T",
+        "Permtick": "PM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PRU": {
+      "Symbol": {
+        "Value": "PRU",
+        "ID": "PRU 2T",
+        "Permtick": "PRU"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PSX": {
+      "Symbol": {
+        "Value": "PSX",
+        "ID": "PSX 2T",
+        "Permtick": "PSX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PVH": {
+      "Symbol": {
+        "Value": "PVH",
+        "ID": "PVH 2T",
+        "Permtick": "PVH"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "PYPL": {
+      "Symbol": {
+        "Value": "PYPL",
+        "ID": "PYPL 2T",
+        "Permtick": "PYPL"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "QCOM": {
+      "Symbol": {
+        "Value": "QCOM",
+        "ID": "QCOM 2T",
+        "Permtick": "QCOM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "RBLX": {
+      "Symbol": {
+        "Value": "RBLX",
+        "ID": "RBLX 2T",
+        "Permtick": "RBLX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "RCL": {
+      "Symbol": {
+        "Value": "RCL",
+        "ID": "RCL 2T",
+        "Permtick": "RCL"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "RIO": {
+      "Symbol": {
+        "Value": "RIO",
+        "ID": "RIO 2T",
+        "Permtick": "RIO"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "RNG": {
+      "Symbol": {
+        "Value": "RNG",
+        "ID": "RNG 2T",
+        "Permtick": "RNG"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ROKU": {
+      "Symbol": {
+        "Value": "ROKU",
+        "ID": "ROKU 2T",
+        "Permtick": "ROKU"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "RRC": {
+      "Symbol": {
+        "Value": "RRC",
+        "ID": "RRC 2T",
+        "Permtick": "RRC"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "RTX": {
+      "Symbol": {
+        "Value": "RTX",
+        "ID": "RTX 2T",
+        "Permtick": "RTX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "RUN": {
+      "Symbol": {
+        "Value": "RUN",
+        "ID": "RUN 2T",
+        "Permtick": "RUN"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "S": {
+      "Symbol": {
+        "Value": "S",
+        "ID": "S 2T",
+        "Permtick": "S"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SBUX": {
+      "Symbol": {
+        "Value": "SBUX",
+        "ID": "SBUX 2T",
+        "Permtick": "SBUX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SCHW": {
+      "Symbol": {
+        "Value": "SCHW",
+        "ID": "SCHW 2T",
+        "Permtick": "SCHW"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SE": {
+      "Symbol": {
+        "Value": "SE",
+        "ID": "SE 2T",
+        "Permtick": "SE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SHOP": {
+      "Symbol": {
+        "Value": "SHOP",
+        "ID": "SHOP 2T",
+        "Permtick": "SHOP"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SLB": {
+      "Symbol": {
+        "Value": "SLB",
+        "ID": "SLB 2T",
+        "Permtick": "SLB"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SPLK": {
+      "Symbol": {
+        "Value": "SPLK",
+        "ID": "SPLK 2T",
+        "Permtick": "SPLK"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SPR": {
+      "Symbol": {
+        "Value": "SPR",
+        "ID": "SPR 2T",
+        "Permtick": "SPR"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SQ": {
+      "Symbol": {
+        "Value": "SQ",
+        "ID": "SQ 2T",
+        "Permtick": "SQ"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "STLD": {
+      "Symbol": {
+        "Value": "STLD",
+        "ID": "STLD 2T",
+        "Permtick": "STLD"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "STX": {
+      "Symbol": {
+        "Value": "STX",
+        "ID": "STX 2T",
+        "Permtick": "STX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SWKS": {
+      "Symbol": {
+        "Value": "SWKS",
+        "ID": "SWKS 2T",
+        "Permtick": "SWKS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "SYY": {
+      "Symbol": {
+        "Value": "SYY",
+        "ID": "SYY 2T",
+        "Permtick": "SYY"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "TJX": {
+      "Symbol": {
+        "Value": "TJX",
+        "ID": "TJX 2T",
+        "Permtick": "TJX"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "TMUS": {
+      "Symbol": {
+        "Value": "TMUS",
+        "ID": "TMUS 2T",
+        "Permtick": "TMUS"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "TSM": {
+      "Symbol": {
+        "Value": "TSM",
+        "ID": "TSM 2T",
+        "Permtick": "TSM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "TTD": {
+      "Symbol": {
+        "Value": "TTD",
+        "ID": "TTD 2T",
+        "Permtick": "TTD"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "TTE": {
+      "Symbol": {
+        "Value": "TTE",
+        "ID": "TTE 2T",
+        "Permtick": "TTE"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "TWLO": {
+      "Symbol": {
+        "Value": "TWLO",
+        "ID": "TWLO 2T",
+        "Permtick": "TWLO"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "U": {
+      "Symbol": {
+        "Value": "U",
+        "ID": "U 2T",
+        "Permtick": "U"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "UAL": {
+      "Symbol": {
+        "Value": "UAL",
+        "ID": "UAL 2T",
+        "Permtick": "UAL"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "UPST": {
+      "Symbol": {
+        "Value": "UPST",
+        "ID": "UPST 2T",
+        "Permtick": "UPST"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "VLO": {
+      "Symbol": {
+        "Value": "VLO",
+        "ID": "VLO 2T",
+        "Permtick": "VLO"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "W": {
+      "Symbol": {
+        "Value": "W",
+        "ID": "W 2T",
+        "Permtick": "W"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "WDC": {
+      "Symbol": {
+        "Value": "WDC",
+        "ID": "WDC 2T",
+        "Permtick": "WDC"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "WMT": {
+      "Symbol": {
+        "Value": "WMT",
+        "ID": "WMT 2T",
+        "Permtick": "WMT"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "WYNN": {
+      "Symbol": {
+        "Value": "WYNN",
+        "ID": "WYNN 2T",
+        "Permtick": "WYNN"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "XOM": {
+      "Symbol": {
+        "Value": "XOM",
+        "ID": "XOM 2T",
+        "Permtick": "XOM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "YUMC": {
+      "Symbol": {
+        "Value": "YUMC",
+        "ID": "YUMC 2T",
+        "Permtick": "YUMC"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "Z": {
+      "Symbol": {
+        "Value": "Z",
+        "ID": "Z 2T",
+        "Permtick": "Z"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ZIM": {
+      "Symbol": {
+        "Value": "ZIM",
+        "ID": "ZIM 2T",
+        "Permtick": "ZIM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    },
+    "ZM": {
+      "Symbol": {
+        "Value": "ZM",
+        "ID": "ZM 2T",
+        "Permtick": "ZM"
+      },
+      "CurrencySymbol": "$",
+      "ConversionRate": 1.0
+    }
+  },
+  "Cash": {
+    "USD": {
+      "SecuritySymbols": [],
+      "Symbol": "USD",
+      "Amount": 100000.0,
+      "ConversionRate": 1.0,
+      "CurrencySymbol": "$",
+      "ValueInAccountCurrency": 100000.0
+    }
+  },
+  "AccountCurrency": "USD",
+  "AccountCurrencySymbol": "$",
+  "Charts": {},
+  "Orders": {},
+  "ProfitLoss": {},
+  "Statistics": {},
+  "RuntimeStatistics": {
+    "Equity": "$100,000.00",
+    "Fees": "-$0.00",
+    "Holdings": "$0.00",
+    "Net Profit": "$0.00",
+    "Probabilistic Sharpe Ratio": "0%",
+    "Return": "0.00 %",
+    "Unrealized": "$0.00",
+    "Volume": "$0.00"
+  },
+  "ServerStatistics": {
+    "CPU Usage": "0.0%",
+    "Used RAM (MB)": "46",
+    "Total RAM (MB)": "2147483647",
+    "Hostname": "221779B",
+    "LEAN Version": "v2.5.0.0",
+    "Up Time": "0d 00:00:17"
+  }
+}
